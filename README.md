@@ -29,7 +29,7 @@
 
 <div align="center">
 
-### Hey there! I'm Taha Hasan 👋
+### Hey there! I'm Md Taha Hasan 👋
 
 I'm a developer passionate about creating efficient backend systems,
 modern frontend experiences, and exploring intelligent technologies.
