@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Taha Hasan
+# 👋 Hi, I'm Md Taha Hasan
 
 ### ☕ Java Developer | ⚙️ Backend Developer
 ### 💻 Frontend Developer | 🤖 AI Enthusiast
