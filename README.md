@@ -1,194 +1,223 @@
 
+<!-- =============== HERO SECTION =============== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D18,50:172554,100:312E81&height=190&section=header&text=TAHA%20HASAN&fontSize=55&fontColor=FFFFFF&fontAlignY=42&desc=JAVA%20BACKEND%20DEVELOPER%20%7C%20SOFTWARE%20DEVELOPER&descSize=16&descColor=93C5FD&descAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:312E81,100:7C3AED&height=220&section=header&text=Taha%20Hasan&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=JAVA%20DEVELOPER%20%7C%20BACKEND%20ENGINEER&descAlignY=58&descSize=18" width="100%"/>
 
-# Building Solutions. Writing Clean Code. Creating Impact.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Java+Developer+%E2%98%95;Backend+Developer+%E2%9A%99%EF%B8%8F;Frontend+Developer+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96;Building+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG"/>
 
-### Java Developer | Backend Developer | Frontend Developer | AI Enthusiast
-
-<p>
-  <a href="https://my-portfolio-taha7679s-projects.vercel.app/">
-    <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:mdtahahasan22@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACT_ME-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<br/>
 
 <a href="https://github.com/taha7679">
-  <img src="https://komarev.com/ghpvc/?username=taha7679&style=flat-square&color=2563EB&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/mdtahahasan/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://my-portfolio-taha7679s-projects.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel"/>
 </a>
 
 </div>
 
 ---
 
-## ABOUT ME
+<!-- =============== ABOUT ME =============== -->
 
-Hi, I'm ** Md Taha Hasan**, a developer passionate about building
-reliable software solutions and continuously improving my engineering skills.
+<h2 align="center">✦ ABOUT ME ✦</h2>
 
-My primary interest is Java Backend Development, with additional
-interests in frontend engineering and artificial intelligence.
+<div align="center">
 
-I enjoy understanding how applications work behind the scenes,
-designing efficient solutions, and turning ideas into functional projects.
+### Hey there! I'm Taha Hasan 👋
 
-**My development focus:**
+I'm a developer passionate about creating efficient backend systems,
+modern frontend experiences, and exploring intelligent technologies.
 
-- Java Programming & Object-Oriented Programming
-- Backend Development & Spring Boot
-- RESTful API Development
-- Database Management & SQL
-- Frontend Development
-- Artificial Intelligence & Generative AI
-- Data Structures & Problem Solving
-
----
-
-## TECHNICAL EXPERTISE
+</div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### BACKEND DEVELOPMENT
+### 💫 My Developer Journey
 
+- ☕ Focused on Java Development
+- ⚙️ Exploring Backend Engineering
+- 🌐 Interested in REST API Development
+- 🎨 Building modern web interfaces
+- 🤖 Exploring Artificial Intelligence
+- 🧠 Improving problem-solving skills
+- 🚀 Turning ideas into real-world projects
+
+</td>
+<td width="45%" valign="top">
+
+### 🎯 My Focus
+
+**Backend**
 - Java
-- Object-Oriented Programming
 - Spring Boot
-- Spring Data JPA
-- Hibernate
 - REST APIs
 
-</td>
-<td width="50%" valign="top">
-
-### DATABASE & DEVELOPMENT
-
-- MySQL
-- SQL
-- Git & GitHub
-- Maven
-- Postman
-- IntelliJ IDEA
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### FRONTEND DEVELOPMENT
-
-- HTML5
-- CSS3
+**Frontend**
+- HTML
+- CSS
 - JavaScript
-- React (learning)
 
-</td>
-<td width="50%" valign="top">
-
-### AREAS OF INTEREST
-
-- Artificial Intelligence
-- Generative AI
-- Backend Architecture
-- API Integration
-- Software Engineering
+**Exploration**
+- AI & Generative AI
+- Database Technologies
 
 </td>
 </tr>
 </table>
 
+---
+
+<!-- =============== TECH STACK =============== -->
+
+<h2 align="center">⚡ TECHNOLOGIES & TOOLS</h2>
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,maven,git,github,postman,idea,html,css,js,react&theme=dark" />
+### ☕ Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" />
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven&theme=dark" />
+
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" />
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
+
+### 🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman&theme=dark" />
+
+### ☁️ DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,linux,aws,nginx&theme=dark" />
 
 </div>
 
 ---
 
-## FEATURED PROJECTS
+<!-- =============== WHAT I DO =============== -->
 
-I believe practical projects demonstrate development skills
-better than a long list of technologies.
+<h2 align="center">🚀 WHAT I LOVE TO BUILD</h2>
 
-Explore my repositories:
+<table>
+<tr>
+<td align="center" width="33%">
 
-<div align="center">
+### ⚙️
+**Backend Systems**
 
-<a href="https://github.com/taha7679?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-View_All_Repositories-2563EB?style=for-the-badge&logo=github"/>
-</a>
+Scalable applications, REST APIs and server-side logic.
 
-</div>
+</td>
+<td align="center" width="33%">
 
-**Project highlights to add here:**
+### 💻
+**Web Experiences**
 
-- Java Backend Applications
-- REST API Projects
-- Database Management Applications
-- Frontend Web Applications
-- AI-Powered Experiments
+Clean, responsive and interactive interfaces.
+
+</td>
+<td align="center" width="33%">
+
+### 🤖
+**AI Applications**
+
+Exploring intelligent and AI-powered solutions.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## WHAT I'M CURRENTLY WORKING ON
+<!-- =============== CURRENTLY LEARNING =============== -->
 
-| Focus | Technologies |
+<h2 align="center">📖 CURRENTLY LEARNING</h2>
+
+<div align="center">
+
+| Area | Learning Focus |
 |:---|:---|
-| Backend Engineering | Java, Spring Boot |
-| API Development | REST, JSON, HTTP |
-| Database | MySQL, SQL, JPA |
-| Frontend | HTML, CSS, JavaScript |
-| Computer Science | DSA, OOP |
-| AI Exploration | Generative AI |
+| ☕ Java | Advanced Java, OOP, Collections |
+| ⚙️ Backend | Spring Boot, Spring Security |
+| 🌐 APIs | REST API, JSON, HTTP |
+| 🗄️ Database | MySQL, SQL, Hibernate |
+| 🧠 Computer Science | DSA & Problem Solving |
+| 🤖 AI | Generative AI & AI Fundamentals |
+
+</div>
 
 ---
 
-## GITHUB ACTIVITY
+<!-- =============== GITHUB STATS =============== -->
+
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=taha7679&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=8B5CF6&text_color=64748B"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=taha7679&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=60A5FA&text_color=C9D1D9"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha7679&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=64748B"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha7679&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=taha7679&theme=transparent&hide_border=true&ring=3B82F6&fire=8B5CF6&currStreakLabel=3B82F6"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=taha7679&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=60A5FA&currStreakLabel=8B5CF6"/>
 
 </div>
 
 ---
 
-## LET'S CONNECT
+<!-- =============== CONTRIBUTIONS =============== -->
 
-I'm always interested in connecting with developers,
-learning from others, and exploring exciting opportunities.
+<h2 align="center">🐍 MY CONTRIBUTION JOURNEY</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/taha7679/taha7679/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+<!-- =============== CONNECT =============== -->
+
+<h2 align="center">🌐 LET'S CONNECT</h2>
 
 <div align="center">
 
 <a href="https://github.com/taha7679">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mdtahahasan/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://my-portfolio-taha7679s-projects.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/My_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:mdtahahasan22@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**Email:** mdtahahasan22@gmail.com
+📧 **mdtahahasan22@gmail.com**
 
 </div>
 
@@ -196,8 +225,10 @@ learning from others, and exploring exciting opportunities.
 
 <div align="center">
 
-### "Great software is built with curiosity, consistency, and creativity."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:090979&height=120&section=footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:172554,100:080D18&height=110&section=footer"/>
+### ✨ CODE. CREATE. INNOVATE. REPEAT. ✨
+
+**Thanks for visiting my profile!**
 
 </div>
