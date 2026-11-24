@@ -29,7 +29,7 @@
 
 <div align="center">
 
-### Hey there! I'm Taha Hasan 👋
+### Hey there! I'm Md Taha Hasan 👋
 
 I'm a developer passionate about creating efficient backend systems,
 modern frontend experiences, and exploring intelligent technologies.
@@ -183,13 +183,13 @@ Exploring intelligent and AI-powered solutions.
 
 <!-- =============== CONTRIBUTIONS =============== -->
 
-<h2 align="center">🐍 MY CONTRIBUTION JOURNEY</h2>
+<!-- <h2 align="center">🐍 MY CONTRIBUTION JOURNEY</h2>
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/taha7679/taha7679/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
-</div>
+</div> -->
 
 ---
 
